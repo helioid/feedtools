@@ -1,3 +1,5 @@
+# encoding: UTF-8
+
 #--
 # Copyright (c) 2005 Robert Aman
 #
